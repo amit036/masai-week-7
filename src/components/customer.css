@@ -1,0 +1,23 @@
+.customerRvw{
+    text-align: left;
+    font-size:80px;
+    font-weight: bold;
+    margin-top: 80px;
+    color: gray;
+    width: 300px;
+    margin-left:300px;
+    
+}
+.imglen{
+    margin-top:20px;
+    width: 700px;
+    height:400px;
+}
+.marginimg{
+    margin-left: 200px;
+}
+.desc{
+    width:300px;
+    margin-left:300px;
+    color: gray;
+}

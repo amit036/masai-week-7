@@ -1,0 +1,31 @@
+.blackbg{
+    background:#32312A;
+    height:700px;
+    width:98%;
+    margin-left:40px;
+}
+.firstRow{
+    color: white;
+    margin-left:300px;
+    margin-top:30px;
+    font-size:18px;
+}
+.secondRow{
+    color: white;
+    margin-left:200px;
+    margin-top:30px;
+    font-size:18px;
+}
+.thirdRow{
+    color: white;
+    margin-left:200px;
+    margin-top:30px;
+    font-size:18px;
+    width: 200px;
+}
+.fourthRow{
+    color: white;
+    margin-left:200px;
+    margin-top:30px;
+    font-size:18px;
+}

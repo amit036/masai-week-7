@@ -1,0 +1,26 @@
+.productsOf{
+    font-size: 80px;
+    font-weight: bold;
+    width:320px;
+    color:gray;
+    margin-left:40px;
+    text-align: center;
+}
+.marginCard{
+    margin-left: 100px;
+    margin-top:40px;
+    border:1px solid #eed202;
+    box-shadow: 1px;
+}
+.marginCard1{
+    margin-left: 40px;
+    margin-top:40px;
+    border:1px solid #eed202;
+    box-shadow: 1px;
+}
+.icon{
+    border-radius: 50%;
+    background: white;
+    border: 1px solid #eed202;
+    color: #eed202;
+}

@@ -1,0 +1,104 @@
+.bg{
+    background-image: url("https://bhiveworkspace.com/wp-content/uploads/2017/07/19451688_262435994236537_866713811_o.jpg");
+    height:800px;
+}
+.navbarLogo{
+    margin-top:30px;
+}
+.floatLeft{
+    float: left;
+}
+.floatRight{
+    float: right;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+.marginLeft{
+    margin-left: 20px;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+}
+.bgyellow{
+    margin-left: 20px;
+    color: white;
+    font-size: 12px;
+    background:#F3CF04;
+    width: 150px;
+    height: 30px;
+    border: 1px solid #F3CF04;
+}
+.searchicon{
+margin-left: 20px;
+width:20px;
+margin-top:10px;
+color: white;
+}
+.imgWhatsapp{
+    width:30px;
+}
+.mobileNo{
+    color:red;
+}
+.yourNxtOffice{
+    margin-top:250px;
+    position: absolute;
+}
+.yourNxt{
+   margin-left: 20px;
+    color: yellow;
+    font-size: 110px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.office{
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.features{
+    margin-left:40px;
+    font-size:25px;
+    font-weight: bold;
+    color:red;
+}
+.btnMargin{
+    margin-left: 270px;
+    margin-top:150px;
+}
+.btnOne{
+    width:400px;
+    height:60px;
+    background: transparent;
+    border:3px solid #eed202;
+    color: #eed202;
+    font-size:25px;
+    font-weight: bold;
+    
+}
+.btnTwo{
+    width:500px;
+    height:60px;
+    margin-left:40px;
+    background: transparent;
+    border:3px solid #eed202;
+    color: #eed202;
+    font-size:25px;
+    font-weight: bold;
+}
+.yellowCol{
+    color:#eed202;
+}
+.scrollDwn
+{
+    color:white;
+    margin-left:900px;
+    margin-top:80px;
+}
+.scrollDwnIcon
+{
+    color:white;
+    margin-left:930px;
+    margin-top:10px;
+}
