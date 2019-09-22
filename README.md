@@ -4,6 +4,6 @@
 
 ## BHIVE React Project
 
-## BHIVE is s Co=working Space
+## BHIVE is s Coworking Space
 
-![Image ](https://imgur.com/DroUKNE)
+![Image ](https://cdn1.imggmi.com/uploads/2019/9/22/e6e96023ca8e4195ed3a2aabdac4acc5-full.png)
