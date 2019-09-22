@@ -2,8 +2,8 @@
 
 ## Amit Kumar
 
-## BHIVE REACT PROJECT
+## BHIVE React Project
 
-## BHIVE IS A CO-WORKING SPACE
+## BHIVE is s Co=working Space
 
-![Image ](https://drive.google.com/open?id=1rdxyEFvrEN-gDwpMC3QC0XfahVWY3Woa)
+![Image ](https://imgur.com/DroUKNE)
