@@ -4,4 +4,4 @@ BHIVE REACT PROJECT
 
 BHIVE IS A COWORKING SPACE 
 
-![alt text](https://ibb.co/x8BhFBR)
+https://ibb.co/x8BhFBR
