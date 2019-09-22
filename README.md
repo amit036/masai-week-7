@@ -1,7 +1,9 @@
-WEEK 7 PROJECT
+# WEEK 7 PROJECT
 
-BHIVE REACT PROJECT
+## Amit Kumar
 
-BHIVE IS A COWORKING SPACE 
+## BHIVE REACT PROJECT
 
-![Screenshot](https://drive.google.com/open?id=1rdxyEFvrEN-gDwpMC3QC0XfahVWY3Woa)
+## BHIVE IS A CO-WORKING SPACE
+
+![Image ](https://drive.google.com/open?id=1rdxyEFvrEN-gDwpMC3QC0XfahVWY3Woa)
