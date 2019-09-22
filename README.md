@@ -6,4 +6,4 @@
 
 ## BHIVE is s Coworking Space
 
-![Image ](https://cdn1.imggmi.com/uploads/2019/9/22/e6e96023ca8e4195ed3a2aabdac4acc5-full.png)
+![Image ](https://cdn1.imggmi.com/uploads/2019/9/22/d3c430d9e1bfa40d27f42fcdf9cdbdd8-full.png)
